@@ -27,7 +27,13 @@ Chain Possibilities
 
 - Chains Basic example
 - Chains - Under the Hood
-  - under the hood, chains are executed under Runnable class. Main 2 parts are - RunnableLambda and RunnableSequence  
+  - under the hood, chains are executed under Runnable class. Main 2 parts are - RunnableLambda and RunnableSequence
+- Chains - Extended
+  - using the RunnableLambda, add additional executable functions
+- Chains - Parallel
+  - using RunnableParallel
+- Chain - Branching
+  - using RunnableBranching
 
 
 
