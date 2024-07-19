@@ -2,7 +2,7 @@
 
 ## This project will focus on understanding different Langchain sections of Chats, Prompts, Chains, RAG & Agents
 
-## Chat Models
+## [Chat Models](Langchain_chat_models.ipynb)
 - Basic Chat Model - How to set it up?
 - Simple Realtime chat model in the notebook
 - Realtime Chat Model and saving the chat history in cloud Firestore Database
