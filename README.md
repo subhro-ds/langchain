@@ -9,6 +9,8 @@
 
 ## Prompt Template 
 - Prompt Template Basic
+![image](https://github.com/user-attachments/assets/325074ce-db39-4023-8e99-61a707be6df9)
+
 - Prompt Template with Chat Models
 
 
