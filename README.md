@@ -13,4 +13,21 @@
 
 - Prompt Template with Chat Models
 
+## Chains
+
+Chain Overview
+
+![image](https://github.com/user-attachments/assets/bc7ba726-6586-4733-a6e3-4a7246f86223)
+
+Chain Possibilities 
+
+![image](https://github.com/user-attachments/assets/1bbae555-3d4d-4c33-855a-f8a07ea8180d)
+![image](https://github.com/user-attachments/assets/6867b814-57db-4ad2-ab57-f93e3a2a5c66)
+
+
+- Chains Basic example
+- 
+
+
+
 
