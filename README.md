@@ -42,5 +42,19 @@ Chain Examples
 - Chain - Branching
   - Implement using RunnableBranching.
 
+## Retrieval Augmented Generation (RAG)
+
+RAG Overview 
+
+![image](https://github.com/user-attachments/assets/b280adb0-72d2-4aa7-bc3d-7770aaf387b4)
+
+![image](https://github.com/user-attachments/assets/d6236cb9-057e-49c3-9c01-8a9d3c3eac4c)
+![image](https://github.com/user-attachments/assets/6eab8ece-79f2-485f-aaf6-e846a87d5474)
+
+Vector DB Workings
+![image](https://github.com/user-attachments/assets/25598ae5-4b45-4b2c-ae6c-050132b472c6)
+
+
+
 
 
