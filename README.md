@@ -42,7 +42,7 @@ Chain Examples
 - Chain - Branching
   - Implement using RunnableBranching.
 
-## Retrieval Augmented Generation (RAG)
+## [Retrieval Augmented Generation (RAG)](langchain_rag.ipynb)
 
 RAG Overview 
 
