@@ -54,7 +54,16 @@ RAG Overview
 Vector DB Workings
 ![image](https://github.com/user-attachments/assets/25598ae5-4b45-4b2c-ae6c-050132b472c6)
 
-
-
+- Simple RAG Working overview
+- RAG Working with Metadata
+- Text Splitters
+  - Different Text Splitters available
+  - When to use what
+  - How does each output look like
+- Different Retriver options
+  - Similarity
+  - MMR
+  - Similarity with Threshold  
+- RAG : Answering the query based on the retrived relevant docs
 
 
