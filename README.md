@@ -65,5 +65,7 @@ Vector DB Workings
   - MMR
   - Similarity with Threshold  
 - RAG : Answering the query based on the retrived relevant docs
+- RAG: Conversation QA
+- RAG: Web Scrapping with Firecrawl
 
 
