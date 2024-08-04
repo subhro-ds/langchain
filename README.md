@@ -68,4 +68,6 @@ Vector DB Workings
 - RAG: Conversation QA
 - RAG: Web Scrapping with Firecrawl
 
+## Agents & Tools
+![image](https://github.com/user-attachments/assets/fe667e9a-f0fb-4a2d-ad6e-c508dc28e04c)
 
