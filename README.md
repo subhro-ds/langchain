@@ -1,6 +1,6 @@
 # Langchain Project
 
-## This project focuses on understanding various sections of Langchain, including Chats, Prompts, Chains, RAG, and Agents.
+This project focuses on understanding various sections of Langchain, including Chats, Prompts, Chains, RAG, and Agents.
 
 # Sections
 
@@ -70,4 +70,3 @@ Vector DB Workings
 
 ## Agents & Tools
 ![image](https://github.com/user-attachments/assets/fe667e9a-f0fb-4a2d-ad6e-c508dc28e04c)
-
